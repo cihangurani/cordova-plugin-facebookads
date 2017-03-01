@@ -22,7 +22,7 @@
     </js-module>
 
 	
-	<dependency id="cordova-facebook-audnet-sdk"/>
+	
 
     <!-- android -->
     <platform name="android">
